@@ -1,3 +1,11 @@
+<table>
+  <tr>
+    <td><img src="https://github.com/sahilbhardwaj23/Duplicate-Question-Pair/blob/main/2.png" alt="Screenshot 1" width="400"></td>
+    <td><img src="https://github.com/sahilbhardwaj23/Duplicate-Question-Pair/blob/main/1.png" alt="Screenshot 2" width="400"></td>
+  </tr>
+</table>
+
+
 # Duplicate Question Pair Checker
 This project aims to identify duplicate question pairs using NLP techniques and machine learning models. The dataset used for this project is the Quora Question Pairs dataset, which was originally provided as part of a Kaggle competition.
 
